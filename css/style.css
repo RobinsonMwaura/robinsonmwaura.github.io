@@ -735,7 +735,7 @@ section .container {
 .services .icon-box {
   text-align: center;
   background: rgba(204, 204, 204, 0.1);
-  padding: 80px 20px;
+  padding: 1px;
   transition: all ease-in-out 0.3s;
 }
 
@@ -812,7 +812,7 @@ section .container {
 .skills .icon-box {
   text-align: center;
   background: rgba(204, 204, 204, 0.1);
-  padding: 20px 5px;
+  padding: 1px;
   transition: all ease-in-out 0.3s;
 }
 
